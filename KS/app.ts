@@ -1,6 +1,6 @@
 // Incomplete conversion (.js to .ts)
 // Variable "name" is assigned the value of "Derrick"
-let name: string = 'Derrick M';
+let name: string = 'Derrick';
 
 const numStates = 50;
 let sum = 5 + 4;
